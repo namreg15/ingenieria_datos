@@ -1,4 +1,4 @@
-DROP TABLE tarea_01;
+DROP TABLE IF EXISTS tarea_01;
 
 CREATE TABLE tarea_01 (
   currency character varying, 
