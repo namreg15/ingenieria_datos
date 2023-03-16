@@ -1,6 +1,6 @@
-DROP TABLE tarea_1;
+DROP TABLE tarea_01;
 
-CREATE TABLE tarea_1 (
+CREATE TABLE tarea_01 (
   currency character varying, 
   rate character varying
 );
@@ -11,4 +11,4 @@ CREATE TABLE tarea_1 (
 --	for rate in rates:
 --	cur = rate[0]
 --	rat	= rate[1]
---  print("INSERT INTO tarea_1 (currency, rate) VALUES('{}', '{}');".format(cur,rat))
+--  print("INSERT INTO tarea_01 (currency, rate) VALUES('{}', '{}');".format(cur,rat))
