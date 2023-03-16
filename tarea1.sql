@@ -1,3 +1,5 @@
+DROP TABLE tarea_1;
+
 CREATE TABLE tarea_1 (
   currency character varying, 
   rate character varying
