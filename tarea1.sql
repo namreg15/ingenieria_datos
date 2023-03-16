@@ -9,5 +9,4 @@ CREATE TABLE tarea_1 (
 --	for rate in rates:
 --	cur = rate[0]
 --	rat	= rate[1]
---  print("INSERT INTO tarea_1 (currency, rate) VALUES(cur, rat);
-
+--  print("INSERT INTO tarea_1 (currency, rate) VALUES(cur, rat);)
