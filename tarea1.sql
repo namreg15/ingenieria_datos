@@ -12,5 +12,6 @@ CREATE TABLE tarea_01 (
 --	rat	= rate[1]
 --  print("INSERT INTO tarea_01 (currency, rate) VALUES('{}', '{}');".format(cur,rat))
 
-
 INSERT INTO tarea_01 (currency, rate) VALUES('pruebas', 'ejemplo');
+INSERT INTO tarea_01 (currency, rate) VALUES('pruebas2', 'ejemplo2');
+INSERT INTO tarea_01 (currency, rate) VALUES('pruebas3', 'ejemplo2');
